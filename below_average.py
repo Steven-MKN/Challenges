@@ -1,3 +1,7 @@
+#Self created challenge, but inspired by one of the challenegs from the website.
+#The goal is to have a function that takes a list of numbers and returns all the
+#numbers that are below average.
+
 def get_below_average(arr: list):
     belows = []
     sum = 0
